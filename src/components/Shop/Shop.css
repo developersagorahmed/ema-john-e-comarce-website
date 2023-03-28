@@ -3,18 +3,9 @@
     grid-template-columns: 4fr 1fr;
 }
 .products-container{
-    margin: 50px;
+    margin: 40px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 
-}
-.cart-container{
-    padding-top: 50px;
-}
-.cart-container h4{
-    font-size: 2rem
-}
-.cart-container p{
-    font-size: 1.5rem;
 }
