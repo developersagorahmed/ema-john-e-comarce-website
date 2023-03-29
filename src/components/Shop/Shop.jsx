@@ -25,7 +25,7 @@ for(const id in storedCart){
         const quantity=storedCart[id];
         addedProduct.quantity=  quantity
         savedCart.push(addedProduct);
-        console.log("added product",addedProduct);
+        // console.log("added product",addedProduct);
     }
     
 }
